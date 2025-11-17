@@ -18,3 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lpaj992&show_icons=true&locale=en" alt="lpaj992" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpaj992&" alt="lpaj992" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lpaj992/lpaj992/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lpaj992/lpaj992/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lpaj992/lpaj992/output/pacman-contribution-graph.svg">
+</picture>
+
+###
