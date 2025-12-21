@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lpaj992@gmail.com**
 
-- ⚡ Fun fact **Im in school, so don't bother talking to me!**
+- ⚡ Fun fact **Im Busy!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
